@@ -1,0 +1,2 @@
+PyGithub
+netscape-bookmarks-file-parser @ git+https://github.com/FlyingWolFox/Netscape-Bookmarks-File-Parser@31a23eafac99cc8f42275b1ffeefe3f619b9d779
